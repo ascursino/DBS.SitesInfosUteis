@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="f1797caf-fc7a-4904-9dd7-beb426be20f9" solutionId="f1797caf-fc7a-4904-9dd7-beb426be20f9" resetWebServer="false" name="DBS.SitesInfosUteis" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="e93a3ffa-a92b-4696-aeef-45583fc090c4" />
+  </projectItems>
+</package>
